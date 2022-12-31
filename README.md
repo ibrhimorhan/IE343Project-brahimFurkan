@@ -1,1 +1,3 @@
-# IE343Project-brahimFurkan
+# IE343Project 
+İbrahim Orhan S021757
+Furkan İbiş 021411
